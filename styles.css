@@ -206,7 +206,28 @@ h3{
     font-family: "ltr-federal-bureau-12-horiz", sans-serif;
     font-weight: 800;
     font-style: normal;
-      display: flex;
-      float: right;
-        font-size:medium
+        font-size:medium;
+       padding-right: 900px;
+}
+
+.poster2{
+    
+   height: 800px;
+   position: relative;
+    top: -1002px;
+    left: 468px;
+}
+
+.posttext2{
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+        font-size:medium;
+        padding-left: 900px;
+        position: relative;
+        top:-1009px;
+}
+.poster3{
+    position: relative;
+    top: 100px;
 }
