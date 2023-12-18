@@ -183,7 +183,7 @@ h2{
 
 .section3{
     background-color:navy;
-    height: 3800px;
+    height: 2700px;
 }
 
 h3{
@@ -240,4 +240,54 @@ h3{
         padding-left: 900px;
         position: relative;
         top:-1551px;
+}
+.section4{
+    background-color: darkgray;
+    height: 2700px;
+}
+
+
+h4{
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+        text-align: center;
+        font-size: 80px;
+        color: black; 
+} 
+
+li{
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+        text-align: center;
+        font-size: 19px;
+        color: black; 
+}
+
+h5{
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    display: flex;
+        font-size: 46px;
+        color: green;  
+}
+
+.reflecttext{
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+        font-size:medium;
+        padding-right: 500px;
+}
+
+.reflecttext2{
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+        font-size:medium;
+        padding-right: 500px;
+        position: relative;
+        top: 100px;
 }
