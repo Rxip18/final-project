@@ -229,5 +229,15 @@ h3{
 }
 .poster3{
     position: relative;
-    top: 100px;
+    top: -773px;
+    left: -148px 
+}
+.posttext3{
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+        font-size:medium;
+        padding-left: 900px;
+        position: relative;
+        top:-1551px;
 }
