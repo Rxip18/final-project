@@ -1,11 +1,212 @@
 body
 {
-    background-color: #18c1f0;
+    background-color: black;
     text-align: center;
 }
 
 h1
 {
-    font-size: 64pt;
-    font-weight: lighter;
+
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+        text-align: center;
+        font-size: 80px;
+        color: blue;
+}
+
+.container-navigation{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.push{
+    margin-left: auto;
+}
+
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:10px;
+    margin:0px 3px;
+    border: 1px solid rgb(91, 50, 205);
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+button:hover{
+    background-color: rgb(4, 29, 255);
+    box-shadow: 0 5px rgba(255, 2, 2, 0.387);
+    transform: translateY(4px);
+}
+
+.section-two {
+    background-color: grey;
+    height: 3800px;
+    
+}
+
+
+.typog{
+   
+    height: 500px;
+    display: flexbox;
+ padding: 120px;   
+}
+
+.typog2{
+    height: 500px;
+   display: flexbox;
+padding:120px;
+
+}
+
+.typotext{
+   
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float:left;
+    float: inline-start;
+    font-size: x-large;
+    flex:1000px;
+    font-style:italic ;
+    padding-right: 700px;
+}
+
+
+.typotext2{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: x-large;
+    
+  
+    float:right;
+    float: inline-start;
+    
+    position:absolute;
+    top: 20;
+padding-left: 800px;
+font-style:italic ;
+
+
+}
+
+.typotext3{
+   
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float:left;
+    float: inline-start;
+    font-size: x-large;
+    flex:1000px;
+    font-style:italic ;
+    padding-right: 700px;
+}
+
+.typotext4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        font-size: x-large;
+        
+      
+        float:right;
+        float: inline-start;
+        
+        position:absolute;
+        top: 20;
+    padding-left: 800px;
+    font-style:italic ;
+}
+
+.typotext5{
+   
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float:left;
+    float: inline-start;
+    font-size: x-large;
+    flex:1000px;
+    font-style:italic ;
+    padding-right: 700px;
+}
+
+.typotext6{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: x-large;
+    
+  
+    float:right;
+    float: inline-start;
+    
+    position:absolute;
+    top: 20;
+padding-left: 800px;
+font-style:italic ;
+}
+
+.typotext7{
+   
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float:left;
+    float: inline-start;
+    font-size: 19px;
+    flex:1000px;
+    font-style:italic ;
+    padding-right: 770px;
+}
+
+.typotext8{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    
+  
+    float:right;
+    float: inline-start;
+    
+    position:absolute;
+    top: 20;
+padding-left:730px;
+font-style:italic ;
+}
+
+h2{
+    background-color: grey;
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+        text-align: center;
+        font-size: 80px;
+        color: blue;
+}
+
+.section3{
+    background-color:navy;
+    height: 3800px;
+}
+
+h3{
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+        text-align: center;
+        font-size: 80px;
+        color: blue; 
+}
+
+.poster1{
+    height: 800px;
+    display: flex;
+ 
+ 
+}
+
+.posttext{
+    font-family: "ltr-federal-bureau-12-horiz", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+      display: flex;
+      float: right;
+        font-size:medium
 }
