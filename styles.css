@@ -136,16 +136,14 @@ header {
     }
 }
 .typotext3{
+    text-align: center;
    
+    font-size: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    float:left;
-    float: inline-start;
-    font-size: x-large;
-    flex:1000px;
-    font-style:italic ;
-    padding-right: 700px;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
 }
-
 .button{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding:10px;
@@ -159,79 +157,77 @@ header {
 
 .typotext5{
    
+    text-align: center;
+   
+    font-size: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    float:left;
-    float: inline-start;
-    font-size: x-large;
-    flex:1000px;
-    font-style:italic ;
-    padding-right: 700px;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
 }
-
 .typotext4{
    
+    text-align: center;
+   
+    font-size: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    float:left;
-    float: inline-start;
-    font-size: x-large;
-    flex:1000px;
-    font-style:italic ;
-    padding-right: 700px;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
 }
 
 .typotext6{
+    text-align: center;
    
+    font-size: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    float:left;
-    float: inline-start;
-    font-size: x-large;
-    flex:1000px;
-    font-style:italic ;
-    padding-right: 700px;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
 }
 
 .typotext{
    
+    text-align: center;
+   
+    font-size: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    float:left;
-    float: inline-start;
-    font-size: x-large;
-    flex:1000px;
-    font-style:italic ;
-    padding-right: 700px;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
 }
 
 .typotext7{
    
+    text-align: center;
+   
+    font-size: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    float:left;
-    float: inline-start;
-    font-size: x-large;
-    flex:1000px;
-    font-style:italic ;
-    padding-right: 700px;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
 }
 
 .typotext2{
    
+    text-align: center;
+   
+    font-size: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    float:left;
-    float: inline-start;
-    font-size: x-large;
-    flex:1000px;
-    font-style:italic ;
-    padding-right: 700px;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
 }
 
 .typotext8{
    
+    text-align: center;
+   
+    font-size: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    float:left;
-    float: inline-start;
-    font-size: x-large;
-    flex:1000px;
-    font-style:italic ;
-    padding-right: 700px;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
 }
 
 h2{
@@ -253,12 +249,32 @@ h2{
     border: 4px solid white;
    
     
-    
+    width: 50%;
+ 
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
    
     
 }
 
 .posttext2 {
+
+    text-align: center;
+   
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
+   
+
+    
+    
+}
+
+.posttext3 {
 
     text-align: center;
    
