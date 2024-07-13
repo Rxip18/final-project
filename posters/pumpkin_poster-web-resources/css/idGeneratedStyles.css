@@ -1,0 +1,178 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	text-align:justify;
+	text-align-last:center;
+}
+p.ParaOverride-2 {
+	text-align:justify;
+	text-align-last:left;
+}
+p.ParaOverride-3 {
+	text-align:center;
+}
+span.CharOverride-1 {
+	font-family:"Clarendon Text Pro", serif;
+	font-size:24px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-2 {
+	font-size:24px;
+}
+span.CharOverride-3 {
+	font-family:"Clarendon Text Pro", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-4 {
+	font-family:"Clarendon Text Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-5 {
+	font-family:"Clarendon Text Pro", serif;
+	font-size:22px;
+	font-style:italic;
+	font-weight:bold;
+}
+span.CharOverride-6 {
+	font-family:"Clarendon Text Pro", serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-7 {
+	font-family:"Clarendon Text Pro", serif;
+	font-size:19px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-8 {
+	font-family:"Clarendon Text Pro", serif;
+	font-size:31px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-9 {
+	font-family:"Clarendon Text Pro", serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-10 {
+	font-family:"Clarendon Text Pro", serif;
+	font-size:25px;
+	font-style:normal;
+	font-weight:bold;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:840px;
+	width:593px;
+}
+#_idContainer001 {
+	display:inline-block;
+	height:94px;
+	width:232px;
+}
+#_idContainer004 {
+	display:inline-block;
+	height:259px;
+	width:333px;
+}
+#_idContainer005 {
+	display:inline-block;
+	height:124px;
+	width:276px;
+}
+#_idContainer007 {
+	display:inline-block;
+	height:127px;
+	width:269px;
+}
+#_idContainer008, #_idContainer010 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:0px;
+}
+#_idContainer017 {
+	display:inline-block;
+	height:124px;
+	width:248px;
+}
+#_idContainer019 {
+	display:inline-block;
+	height:63px;
+	width:133px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	background-color:#0073ff;
+}
+div._idGenObjectStyleOverride-2 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-3 {
+	background-color:#ff8500;
+	border-width:3px;
+}
+div._idGenObjectStyleOverride-4 {
+	background-color:#ff7800;
+	border-width:3px;
+}
+div._idGenObjectStyleOverride-5 {
+	background-color:#3769b1;
+}
+div._idGenObjectStyleOverride-6 {
+	background-color:#ff7c00;
+	border-width:3px;
+}
+div._idGenObjectStyleOverride-7 {
+	background-color:#3769b1;
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
