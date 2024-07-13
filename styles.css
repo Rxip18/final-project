@@ -92,7 +92,7 @@ header {
 .container-navigation button {
     margin: 0.5rem;
     padding: 0.5rem 1rem;
-    background-color: #d400ff;
+    background-color: #00fc3b00;
     color: white;
     border: none;
     cursor: pointer;
@@ -234,9 +234,10 @@ h2{
     
    
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    text-align: center;
     font-size: xxx-large;
   
+    
 
 
 }
@@ -288,3 +289,14 @@ h2{
     
     
 }
+.worktext{
+    text-align: center;
+   
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+   
+    color: rgb(0, 0, 0);
+   
+}
+
